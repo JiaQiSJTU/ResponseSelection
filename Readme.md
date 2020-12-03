@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 
-Download the discourse parsed datasets and unzip into ~/code/data. 
+Download the discourse parsed datasets from [Google Drive](https://drive.google.com/file/d/1nDZsFtkuGJIIqv3-7vw21PBjSPmqoMTp/view?usp=sharing) and unzip into ~/code/data. 
 
 Run the following commands to setup the code:
 ```bash
