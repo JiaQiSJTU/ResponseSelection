@@ -1,6 +1,6 @@
 # Multi-turn Response Selection
 
-Paper: Multi-turn Response Selection using Dialogue Dependency Relations has been accepted by EMNLP 2020 ([linke](https://www.aclweb.org/anthology/2020.emnlp-main.150/)).
+Paper: Multi-turn Response Selection using Dialogue Dependency Relations has been accepted by EMNLP 2020 ([link](https://www.aclweb.org/anthology/2020.emnlp-main.150/)).
 
 ## Response selection
 
