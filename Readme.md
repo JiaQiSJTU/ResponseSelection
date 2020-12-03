@@ -37,6 +37,6 @@ python3 -u examples/train_model.py --init-model zoo:pretrained_transformers/poly
 
 ## Dependency Parsing
 
-The new dataset we used to train the [dependency parsing model](https://github.com/shizhouxing/DialogueDiscourseParsing) is transformed from the dataset proposed in "[A large-scale corpus for conversation disentanglement](https://www.aclweb.org/anthology/P19-1374/)". The new dataset can be downloaded from [here](https://drive.google.com/file/d/1Bh515NoYHq1od7B0q9cax99jTCLDLhAq/view?usp=sharing). 
+The new dataset we used to train the [dependency parsing model](https://github.com/shizhouxing/DialogueDiscourseParsing) is transformed from the dataset proposed in "[A large-scale corpus for conversation disentanglement](https://www.aclweb.org/anthology/P19-1374/)". The new dataset can be downloaded [here](https://drive.google.com/file/d/1Bh515NoYHq1od7B0q9cax99jTCLDLhAq/view?usp=sharing). 
 
 It should be noted that we only use this model to predict if there exists a dependency relation between two utterances and ignored the relation types. The "type" of each relation in our generated dataset is meaningless.
