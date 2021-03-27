@@ -8,6 +8,10 @@ Paper: Multi-turn Response Selection using Dialogue Dependency Relations has bee
 
 Download the discourse parsed datasets from [Google Drive](https://drive.google.com/file/d/1nDZsFtkuGJIIqv3-7vw21PBjSPmqoMTp/view?usp=sharing) and unzip into ~/code/data. 
 
+The other other two dataset used in this paper can be downloaded here: 
+* [UbuntuV2](https://adapt.seiee.sjtu.edu.cn/~angel/par_ubuntuv2.zip)
+* [DSTC8\*](https://adapt.seiee.sjtu.edu.cn/~angel/par_dstc8.zip)
+
 ### Getting Started
 
 The code for this paper is based on [ParlAI](http://parl.ai). The original codes this repository based on can be downloaded [here](https://drive.google.com/file/d/1xhKv-XY2aXKDcVoA_d3r0ES7bkETwhQk/view?usp=sharing). 
@@ -46,6 +50,7 @@ The comparison of baselines and our models on DSTC7 are shown as follows:
 | Cross-Enc (Humeau et al., 2019) | 71.7   | 92.4    | -       | 79.0 |
 | Thread-bi                       | **73.3**   | 92.5    | 99.3    | 80.2 |
 | Thread-poly                     | 73.2   | **93.6**    | 99.1    | **80.4** |
+
 
 
 ## Dependency Parsing
