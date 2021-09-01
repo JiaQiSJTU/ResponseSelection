@@ -9,8 +9,8 @@ Paper: Multi-turn Response Selection using Dialogue Dependency Relations has bee
 Download the discourse parsed DSTC7 datasets from [Google Drive](https://drive.google.com/file/d/1nDZsFtkuGJIIqv3-7vw21PBjSPmqoMTp/view?usp=sharing) and unzip into ~/code/data. 
 
 The other other two dataset used in this paper can be downloaded here: 
-* [UbuntuV2](https://adapt.seiee.sjtu.edu.cn/~angel/par_ubuntuv2.zip)
-* [DSTC8\*](https://adapt.seiee.sjtu.edu.cn/~angel/par_dstc8.zip)
+* [UbuntuV2](https://adapt.seiee.sjtu.edu.cn/~angel/par_ubuntuv2.zip) or from [Google Drive](https://drive.google.com/file/d/1FNKt-CagID3tIVpcYb0B4HfCSTRkIzbi/view?usp=sharing)
+* [DSTC8\*](https://adapt.seiee.sjtu.edu.cn/~angel/par_dstc8.zip) or from [Google Drive](https://drive.google.com/file/d/1WafMff_tumrIYPe6gMTRjrqngkXB6WPO/view?usp=sharing)
 
 ### Getting Started
 
